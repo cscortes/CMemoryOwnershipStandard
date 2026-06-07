@@ -130,6 +130,7 @@ An unmatched `_new` with no corresponding `_drop` on every exit path is a leak. 
 
 | File | Description |
 |------|-------------|
+| [guidinglight.md](guidinglight.md) | The philosophy and reasoning behind the standard — start here |
 | [CStandard.md](CStandard.md) | The full naming convention and allocation standard |
 | [CMemoryProblems.md](CMemoryProblems.md) | Taxonomy of 34 C memory failure modes this standard prevents |
 
